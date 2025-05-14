@@ -7,10 +7,10 @@ It visualises species distributions and morphometrics (bill length, flipper leng
 
 ## 📊 Key Features
 
-- **Dynamic filters** for species, island, and sex  
-- **Interactive plots** created with **ggplot2 + plotly** (hover to inspect points)  
-- **Summary stats cards**: mean / median measurements by selected group  
-- Exportable **download button** for filtered data  
+- **Dynamic filters** for species and sex  
+- **Distribution plots** created with **ggplot2**  
+- **Slider**: for filtering based on bill length  
+- **Data tab** for viewing filtered data  
 
 ---
 
